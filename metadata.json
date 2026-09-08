@@ -1,0 +1,6 @@
+{
+  "name": "陈楠的个人小站",
+  "description": "陈楠的个人创意与设计开发作品集网站，包含首页、关于我、我的文章和我的作品四大模块，呈现生动明快、温暖治愈的现代设计风格。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
